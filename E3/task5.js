@@ -5,4 +5,4 @@ const showExponent = (x, n) => {
     return result
 }
 
-showExponent(5, 3);
+showExponent(5, 4);
